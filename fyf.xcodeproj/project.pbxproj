@@ -18,6 +18,7 @@
 		410272C12AD5F3A800BE7E51 /* Rank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 410272C02AD5F3A800BE7E51 /* Rank.swift */; };
 		410272C32AD5F3C100BE7E51 /* Suit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 410272C22AD5F3C100BE7E51 /* Suit.swift */; };
 		418AF8EC2AD5F4B100A71525 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 418AF8EB2AD5F4B100A71525 /* CardView.swift */; };
+		418AF8EE2AD5F68900A71525 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 418AF8ED2AD5F68900A71525 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		410272C02AD5F3A800BE7E51 /* Rank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rank.swift; sourceTree = "<group>"; };
 		410272C22AD5F3C100BE7E51 /* Suit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Suit.swift; sourceTree = "<group>"; };
 		418AF8EB2AD5F4B100A71525 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		418AF8ED2AD5F68900A71525 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		410272862AD5F2FC00BE7E51 = {
 			isa = PBXGroup;
 			children = (
+				418AF8ED2AD5F68900A71525 /* .gitignore */,
 				410272912AD5F2FC00BE7E51 /* fyf */,
 				410272A32AD5F2FD00BE7E51 /* fyfTests */,
 				410272AD2AD5F2FD00BE7E51 /* fyfUITests */,
@@ -262,6 +265,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4102729B2AD5F2FD00BE7E51 /* Preview Assets.xcassets in Resources */,
+				418AF8EE2AD5F68900A71525 /* .gitignore in Resources */,
 				410272972AD5F2FD00BE7E51 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
